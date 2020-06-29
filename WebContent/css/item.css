@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/*商品画像処理*/
+tr td img {
+	max-width: 130px;
+	max-height: 130px;
+	-ms-interpolation-mode: bicubic;
+}
+
+#list_items .tablesorter-header {
+  cursor: pointer;
+  outline: none;
+}
+#list_items .tablesorter-header-inner::after {
+  content: '▼';
+  font-size: 12px;
+  margin-left: 5px;
+}
+

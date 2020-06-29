@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/*カート*/
+.item {
+	max-width: 180px;
+	max-height: 180px;
+	-ms-interpolation-mode: bicubic;
+	text-align: center;
+}
+
+body {
+	background-image:
+		url("http://localhost:8080/ECSiteProject/images/top_back.jpg");
+    background-position: center;
+    background-size: cover;
+}

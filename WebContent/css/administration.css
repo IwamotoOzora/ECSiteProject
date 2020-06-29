@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+img {
+	max-width: 130px;
+	max-height: 130px;
+	-ms-interpolation-mode: bicubic;
+}
+
+h1 {
+	text-align: center;
+}
+
+.administrator {
+	text-align: center;
+	padding: 15px;
+}
+
+.list_item {
+    margin-bottom: 10px;
+}
+
+.register {
+	margin: 10px;
+}
+
+.update {
+	margin: 10px;
+}
+
+.delete {
+	margin: 10px;
+}
+
+.submit {
+	margin: 150x;
+}
+
+.back_button {
+	margin: 15px;
+}

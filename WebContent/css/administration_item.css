@@ -1,0 +1,12 @@
+@charset "UTF-8";
+tr td img {
+	max-width: 100px;
+	max-height: 100px;
+	-ms-interpolation-mode: bicubic;
+}
+
+h1 {
+	text-align: center;
+}
+
+

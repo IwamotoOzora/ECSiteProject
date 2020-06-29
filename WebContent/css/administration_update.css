@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.member_no {
+	text-align: center;
+}
+
+.up {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.update {
+	text-align: center;
+}
+
+.button {
+	text-align: center;
+}
+
+label[for="name"]{
+	margin-right: 3px;
+}
+
+input[name~="price"] {
+	margin-left: 10px;
+}
+
+label[for="price"] {
+	margin-right: 10px;
+}
+
+input[name~="color"] {
+	margin-left: 35px;
+}
+
+input[name~="image"]{
+	margin-left: 10px
+}
+
+label[for="category"] {
+	margin-right: 7px;
+}
+
+input[name~="category"]{
+	margin-right: 10px;
+}
+
+.message {
+	text-align: center;
+}

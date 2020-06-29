@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+#list_items th {
+	font-size: 15px !important;
+	color: gray !important;
+	background: #f0e68c;
+	cursor: n-resize;
+}
+
+#list_items th span {
+	border: 1px solid gray;
+	border-radius: 5px;
+	color: gray;
+	background: #d1d1d1;
+	font-size: 15px !important;
+	padding: 0 2px;
+}
+
+#list_items th, #list_items td {
+	border: 1px solid gray;
+}
+
+#list_items th.headerSortUp {
+	background: pink;
+}
+
+#list_items th.headerSortDown {
+	background: lavender;
+}
+
+.item_name {
+    text-align: center;
+    font-size: 20px;
+}
+
+.item_price {
+	text-align: center;
+	font-size: 20px;
+}

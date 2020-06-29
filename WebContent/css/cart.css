@@ -1,0 +1,7 @@
+@charset "UTF-8";
+body {
+	background-image:
+		url("http://localhost:8080/ECSiteProject/images/top_back.jpg");
+    background-position: center;
+    background-size: cover;
+}
